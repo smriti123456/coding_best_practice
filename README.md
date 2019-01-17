@@ -1,7 +1,7 @@
 # SMRITI RASTOGI
-Contact No. 8585984603
-Email: smritirastogi8196@gmail.com
-Linkedin: https://www.linkedin.com/in/smriti-rastogi-827a01156/
+Contact No. 8585984603  
+Email: smritirastogi8196@gmail.com   
+Linkedin: https://www.linkedin.com/in/smriti-rastogi-827a01156/  
 Hackerrank: https://www.hackerrank.com/smritirastogi247
 
 ## CAREER OBJECTIVES
